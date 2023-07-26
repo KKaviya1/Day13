@@ -1,0 +1,8 @@
+F:\Day - 13\properties\properties\bin\Debug\properties.exe.config
+F:\Day - 13\properties\properties\bin\Debug\properties.exe
+F:\Day - 13\properties\properties\bin\Debug\properties.pdb
+F:\Day - 13\properties\properties\obj\Debug\properties.csproj.AssemblyReference.cache
+F:\Day - 13\properties\properties\obj\Debug\properties.csproj.SuggestedBindingRedirects.cache
+F:\Day - 13\properties\properties\obj\Debug\properties.csproj.CoreCompileInputs.cache
+F:\Day - 13\properties\properties\obj\Debug\properties.exe
+F:\Day - 13\properties\properties\obj\Debug\properties.pdb

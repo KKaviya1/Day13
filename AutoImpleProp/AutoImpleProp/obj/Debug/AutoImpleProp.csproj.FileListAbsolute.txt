@@ -1,0 +1,8 @@
+F:\Day - 13\AutoImpleProp\AutoImpleProp\bin\Debug\AutoImpleProp.exe.config
+F:\Day - 13\AutoImpleProp\AutoImpleProp\bin\Debug\AutoImpleProp.exe
+F:\Day - 13\AutoImpleProp\AutoImpleProp\bin\Debug\AutoImpleProp.pdb
+F:\Day - 13\AutoImpleProp\AutoImpleProp\obj\Debug\AutoImpleProp.csproj.AssemblyReference.cache
+F:\Day - 13\AutoImpleProp\AutoImpleProp\obj\Debug\AutoImpleProp.csproj.SuggestedBindingRedirects.cache
+F:\Day - 13\AutoImpleProp\AutoImpleProp\obj\Debug\AutoImpleProp.csproj.CoreCompileInputs.cache
+F:\Day - 13\AutoImpleProp\AutoImpleProp\obj\Debug\AutoImpleProp.exe
+F:\Day - 13\AutoImpleProp\AutoImpleProp\obj\Debug\AutoImpleProp.pdb

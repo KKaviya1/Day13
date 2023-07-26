@@ -1,0 +1,8 @@
+F:\Day - 13\propertiesexfour\propertiesexfour\bin\Debug\propertiesexfour.exe.config
+F:\Day - 13\propertiesexfour\propertiesexfour\bin\Debug\propertiesexfour.exe
+F:\Day - 13\propertiesexfour\propertiesexfour\bin\Debug\propertiesexfour.pdb
+F:\Day - 13\propertiesexfour\propertiesexfour\obj\Debug\propertiesexfour.csproj.AssemblyReference.cache
+F:\Day - 13\propertiesexfour\propertiesexfour\obj\Debug\propertiesexfour.csproj.SuggestedBindingRedirects.cache
+F:\Day - 13\propertiesexfour\propertiesexfour\obj\Debug\propertiesexfour.csproj.CoreCompileInputs.cache
+F:\Day - 13\propertiesexfour\propertiesexfour\obj\Debug\propertiesexfour.exe
+F:\Day - 13\propertiesexfour\propertiesexfour\obj\Debug\propertiesexfour.pdb

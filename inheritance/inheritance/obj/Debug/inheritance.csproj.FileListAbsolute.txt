@@ -1,0 +1,8 @@
+F:\Day - 13\inheritance\inheritance\bin\Debug\inheritance.exe.config
+F:\Day - 13\inheritance\inheritance\bin\Debug\inheritance.exe
+F:\Day - 13\inheritance\inheritance\bin\Debug\inheritance.pdb
+F:\Day - 13\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+F:\Day - 13\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+F:\Day - 13\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+F:\Day - 13\inheritance\inheritance\obj\Debug\inheritance.exe
+F:\Day - 13\inheritance\inheritance\obj\Debug\inheritance.pdb
